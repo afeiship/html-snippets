@@ -1,0 +1,2 @@
+# no-cache
+> Cache-control

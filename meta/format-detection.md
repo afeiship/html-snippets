@@ -7,4 +7,5 @@
 <meta name="format-detection" content="email=no"/>
 <meta name="format-detection" content="address=no"/>
 <meta name="format-detection" content="date=no"/>
+<meta name="format-detection" content="telphone=no, email=no"/>
 ```
