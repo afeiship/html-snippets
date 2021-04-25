@@ -1,3 +1,2 @@
-# Headline
-
+# html-snippets
 > An awesome project.
